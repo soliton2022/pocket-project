@@ -2,7 +2,7 @@
 
 ## Development Lead
 
-- Datta Miruke [soliton2020](https://github.com/soliton2020)
+- Datta Miruke [soliton2022](https://github.com/soliton2022)
 
 ## Contributors
 

@@ -2,7 +2,8 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/soliton2020/pocket-project/version"
+
+	"github.com/soliton22/pocket-project/version"
 	"github.com/spf13/cobra"
 )
 

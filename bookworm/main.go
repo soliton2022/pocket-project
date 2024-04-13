@@ -1,13 +1,9 @@
 package main
 
-import (
-	
-	"github.com/soliton2020@gmail.com/pocket-project/cmd"
-)
+import "github.com/soliton2022/pocket-project/cmd"
 
 func main() {
 
-    
-    cmd.Execute()
-	
+	cmd.Execute()
+
 }
