@@ -1,3 +1,4 @@
+package bookworm
 // A Bookworm contains the list of books on a bookworm's shelf.
 type Bookworm struct {
     Name  string `json:"name"`
